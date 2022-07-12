@@ -26,27 +26,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
     <img src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg" title="Cypress" alt="Cypress" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-  
- <br>
-  
-  <div align = "center">
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VictorArumi&theme=radical&background=03010100&fire=F94A6B&sideNums=FF8616&ring=F94A6B&dates=FF8616&currStreakLabel=F94A6B&currStreakNum=FF8616&stroke=F94A6B&sideLabels=F94A6B" />
-  </a>
-</div>
-<br>
-<div align = "center">
-  <a href="https://github.com/VictorArumi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorArumi&show_icons=true&theme=radical&bg_color=03010100&text_color=FF8616&title_color=F94A6B&icon_color=FF8616" />
-  </a>
-</div>
-<br>
-<div align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorarumi&show_icons=true&layout=compact&bg_color=03010100&text_color=FF8616&title_color=F94A6B&icon_color=FF8616&card_width=450" />
-  </a>
-</div>
