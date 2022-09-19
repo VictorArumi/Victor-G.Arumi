@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="250"/>
 </div>  
---  
-PadelBookings url: https://victor-arumi-front-final-project-202204-bcn.netlify.app/
---
 
 ### 🛠️ Languages and Tools :
    <br>
